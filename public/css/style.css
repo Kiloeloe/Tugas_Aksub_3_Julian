@@ -1,0 +1,73 @@
+.banner {
+    background: rgb(7, 13, 61);
+    color: white;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.banner>h1 {
+    font-size: 50px;
+}
+
+.banner>p {
+    font-size: 20px;
+}
+
+.manage {
+    background-color: #ffc107;
+}
+
+.list {
+    background: #f8f9fa;
+}
+
+
+/* item content */
+
+.item-content {
+    background-color: #ffc107;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.item-content>.nama {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.item-content>.harga {
+    font-size: 15px;
+}
+
+.item-content>.jumlah {
+    font-size: 15px;
+}
+
+
+/* table */
+
+.table-wrapper {
+    background: #ffc107;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+/* Add Page */
+
+.submit-button {
+    background-color: #070d3d;
+    color: white;
+}
+
+
+/* Form Group */
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-back {
+    background: #ffc107;
+}
